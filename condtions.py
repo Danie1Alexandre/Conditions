@@ -23,22 +23,35 @@
 
 #3
 
-user = input("type username")
-passcode = input("type password")
+# user = input("type username")
+# passcode = input("type password")
 
 
-user_name = "bob"
-password= "123"
+# user_name = "bob"
+# password= "123"
 
-if user == user_name and passcode == password:
-    print("password match")
-else:
-    print ("wrong password or username") 
+# if user == user_name and passcode == password:
+#     print("password match")
+# else:
+#     print ("wrong password or username") 
 
 #4
-score = int(input("type a score"))
+# score = int(input("type a score"))
 
-if
+# if score <= 10 :
+#     print("Grade E")
+# elif score <= 20:
+#     print("Grade D")
+# elif score <= 40 :
+#     print("Grade C")
+# elif score <= 60 :
+#     print("Grade B")
+# elif score > 60:
+#     print("Grade A")
+
+#5
+
+member = 
     
     
 
