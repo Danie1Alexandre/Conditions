@@ -51,7 +51,14 @@
 
 #5
 
-member = 
+member = "no"
+total_order = 300
+
+
+if member == "yes" and total_order >= 300:
+    print("free_shipping") 
+else:
+    print("shipping fee is 50")
     
     
 
