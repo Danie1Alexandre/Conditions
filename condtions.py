@@ -51,7 +51,7 @@
 
 #5
 
-member = "no"
+member = "yes"
 total_order = 300
 
 
@@ -59,6 +59,14 @@ if member == "yes" and total_order >= 300:
     print("free_shipping") 
 else:
     print("shipping fee is 50")
+
+#6
+
+print(7==7) #true
+print(9 != 9) #false
+print(7 > 5) #true
+print(9 <= 7) #false
+print( 10 <= 10) #true
     
     
 
